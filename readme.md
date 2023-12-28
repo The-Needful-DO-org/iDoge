@@ -1,3 +1,14 @@
+# iDoge ICRC-1
+
+Forked from [SNEED ICRC-1](https://github.com/icsneed/sneed) thank you Mr. Sneed
+
+[iDoge.org](https://idoge.org/)
+
+Changes:
+
+- Added script with config `deploy.sh`
+- Added `logo.png`
+
 # SNEED ICRC-1 Implementation
 This repo contains the source code for the SNEED ICRC1 token, 
 a fork of the [NatLabs implementation](https://github.com/NatLabs/icrc1) of the 
